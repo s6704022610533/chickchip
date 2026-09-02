@@ -1,0 +1,6 @@
+{
+  "name": "Bill Splitter - เครื่องมือคำนวณบิล",
+  "description": "เว็บแอปคำนวณและหารบิล รองรับภาษีมูลค่าเพิ่ม ค่าบริการ โหมดหารเท่า เลือกรายการ กำหนดเอง แบบเรียลไทม์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
